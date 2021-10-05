@@ -1,1 +1,17 @@
 /* nothing here */
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@800&family=Space+Mono:ital@1&display=swap');
+
+body{
+    background-color: #ededee;
+    margin: 100px;
+    font-family: 'Space Mono', monospace;
+}
+
+h1{
+    color: #f6a09b;
+}
+h3{
+    font-family: 'BioRhyme', serif;
+}
